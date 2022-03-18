@@ -46,6 +46,10 @@ footer {
     color: white;
     text-align: center;
 }
+.devnotes:before {
+    content:"The site is in development stage. Please report bugs to the developer. Last update: 03/22.";
+}
+
 
 @media (min-width: 1199px) {  
     main {

@@ -23,9 +23,9 @@ ul {
     background-color: #c9c1c7;
     list-style-type:square;
     border: solid black 2px;
-    width: 500px;
+    max-width: 700px;
     margin: 0px 0px 25px 50px;
-    padding: 5px;
+    padding: 5px 5px 5px 7px;
 }
 main div {
     font-size: 28px;
@@ -52,6 +52,21 @@ footer {
     position: relative;
     top: 72px;
 }
+.devnotes:before {
+    content:"The site is in development stage. Please report bugs to the developer. Last update: 03/22.";
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* @media (min-width: 1199px) {  
     main {
