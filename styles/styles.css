@@ -2,7 +2,7 @@ body {
     background-color: rgb(191, 210, 231);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 28px;  
-    padding: 25px 35px 0px 35px;
+    padding: 0px 25px 25px 35px;
 }
     a:link {text-decoration:none;}
     a:visited {text-decoration: none;}
@@ -58,20 +58,9 @@ body {
         
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     footer {
+        background-color: rgb(187, 9, 54);
+        color: white;
         font-size: 14px;
         text-align: center;
     }
