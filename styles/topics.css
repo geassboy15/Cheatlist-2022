@@ -8,7 +8,7 @@ body {
 header {
     font-size: 42px;
     padding: 50px 0px 20px 50px;
-    max-width: 400px;
+    max-width: 50%
 }
 #topics {
     font-size: 31px;
@@ -23,7 +23,7 @@ ul {
     background-color: #c9c1c7;
     list-style-type:square;
     border: solid black 2px;
-    width: 350px;
+    width: 500px;
     margin: 0px 0px 25px 50px;
     padding: 5px;
 }
@@ -40,14 +40,20 @@ a:hover {
     color: white;
     background-color: rgb(6, 59, 28);
 }
+nav {
+    text-align: center;
+    font-size: 32px;
+}
 footer {
     background-color:  rgb(59, 6, 17);
     font-size: 14px;
     color: white;
     text-align: center;
+    position: relative;
+    top: 72px;
 }
 
-@media (min-width: 1199px) {  
+/* @media (min-width: 1199px) {  
     main {
         column-count: 3;
     }
@@ -64,4 +70,4 @@ footer {
     #letteri {
         margin-bottom: 50px;
     }
-}
+} */
