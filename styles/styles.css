@@ -14,7 +14,10 @@ header {
     font-size: 31px;
     border-top: solid black 1px;
     width: 100%;
-    padding-top: 25px;
+    padding-top: 10px;
+}
+#title {
+    padding-bottom: 10px;
 }
 ul {
     background-color: rgb(79, 212, 79);
@@ -44,7 +47,7 @@ footer {
     text-align: center;
 }
 
-@media (min-width: 1199px) {
+@media (min-width: 1199px) {  
     main {
         column-count: 3;
     }
