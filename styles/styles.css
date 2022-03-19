@@ -8,13 +8,13 @@ body {
 header {
     font-size: 42px;
     padding: 50px 0px 20px 50px;
-    max-width: 400px;
 }
 #topics {
     font-size: 31px;
     border-top: solid black 1px;
-    width: 100%;
+    width: 70%;
     padding-top: 10px;
+    margin-bottom: 10px;
 }
 #title {
     padding-bottom: 10px;
@@ -49,6 +49,18 @@ footer {
 .devnotes:before {
     content:"The site is in development stage. Please report bugs to the developer. Last update: 03/22.";
 }
+
+.updates {
+    background-color:  rgb(59, 6, 17);
+    font-size: 18px;
+    color: white;
+    text-align: left;
+    padding: 5px;
+}
+.updates:before {
+    content:"Contribute to the site! Message me for any information you'd like to add.";
+}
+
 
 
 @media (min-width: 1199px) {  
