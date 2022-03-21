@@ -68,7 +68,11 @@ footer {
     main {
         column-count: 3;
     }
-    #letterd, #lettern {
+    #lettern {
+        margin-bottom: unset;
+    }
+
+    #lettern {
         margin-bottom: unset;
     }
 
@@ -79,6 +83,6 @@ footer {
         column-count: 2;
     }
     #letteri {
-        margin-bottom: unset;
+        margin-bottom: 120px;
     }
 }
