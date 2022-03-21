@@ -33,7 +33,7 @@ main div {
     margin: 0px 0px 0px 50px;
     padding: 5px;
 }
-a:link {
+a:link, a:visited {
     text-decoration: none;
     color: black;
 }
