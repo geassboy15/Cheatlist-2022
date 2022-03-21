@@ -35,6 +35,7 @@ main div {
 }
 a:link {
     text-decoration: none;
+    color: black;
 }
 a:hover {
     color: white;
