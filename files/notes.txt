@@ -1,0 +1,14 @@
+
+
+
+<li>The letter is cut, torn off or unreadable.</li> 
+
+<li>Upload the document to filenet after successful setup.</li>
+
+<li>Uploading the document to filenet is not necessary.</li>
+
+<li>Upload the document to filenet afer successful forward.</li>
+
+
+
+new update: permission to ship veh, Dealer docs, credit dispute
