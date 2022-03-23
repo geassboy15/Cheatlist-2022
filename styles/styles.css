@@ -86,3 +86,17 @@ footer {
         margin-bottom: 170px;
     }
 }
+@media (max-width: 752px) {
+    footer { 
+       text-align: center;
+    }
+    header {
+        padding: 10px;
+        margin: 0px;
+    }
+    main {
+        position: relative;
+        left: -30px;
+        width: 200px;
+    }
+}

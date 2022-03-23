@@ -59,7 +59,21 @@ footer {
 .devnotes:before {
     content:"The site is in development stage. Please report any mistakes to the developer. Last update: 03/22.";
 }
-
+@media (max-width: 752px) {
+    header {
+        padding: 0.5em;
+        margin: 0px;
+    }
+    main {
+        position: relative;
+        left: -30px;
+        width: 500px;
+    }
+    footer {
+        text-align: center;
+        width: 500px;
+    }
+}
 
 
 
